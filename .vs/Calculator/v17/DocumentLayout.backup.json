@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lenovo\\source\\repos\\Calculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE86BEEC-55B1-4A8D-9767-8C42E67F01E0}|Calculator\\Calculator.vbproj|c:\\users\\lenovo\\source\\repos\\calculator\\calculator\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{FE86BEEC-55B1-4A8D-9767-8C42E67F01E0}|Calculator\\Calculator.vbproj|solutionrelative:calculator\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE86BEEC-55B1-4A8D-9767-8C42E67F01E0}|Calculator\\Calculator.vbproj|c:\\users\\lenovo\\source\\repos\\calculator\\calculator\\menuform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{FE86BEEC-55B1-4A8D-9767-8C42E67F01E0}|Calculator\\Calculator.vbproj|solutionrelative:calculator\\menuform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE86BEEC-55B1-4A8D-9767-8C42E67F01E0}|Calculator\\Calculator.vbproj|c:\\users\\lenovo\\source\\repos\\calculator\\calculator\\calcu.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{FE86BEEC-55B1-4A8D-9767-8C42E67F01E0}|Calculator\\Calculator.vbproj|solutionrelative:calculator\\calcu.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE86BEEC-55B1-4A8D-9767-8C42E67F01E0}|Calculator\\Calculator.vbproj|c:\\users\\lenovo\\source\\repos\\calculator\\calculator\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{FE86BEEC-55B1-4A8D-9767-8C42E67F01E0}|Calculator\\Calculator.vbproj|solutionrelative:calculator\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE86BEEC-55B1-4A8D-9767-8C42E67F01E0}|Calculator\\Calculator.vbproj|c:\\users\\lenovo\\source\\repos\\calculator\\calculator\\menuform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{FE86BEEC-55B1-4A8D-9767-8C42E67F01E0}|Calculator\\Calculator.vbproj|solutionrelative:calculator\\menuform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE86BEEC-55B1-4A8D-9767-8C42E67F01E0}|Calculator\\Calculator.vbproj|c:\\users\\lenovo\\source\\repos\\calculator\\calculator\\calcu.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{FE86BEEC-55B1-4A8D-9767-8C42E67F01E0}|Calculator\\Calculator.vbproj|solutionrelative:calculator\\calcu.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\Calculator\\Calculator\\Login.vb",
+              "RelativeDocumentMoniker": "Calculator\\Login.vb",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\Calculator\\Calculator\\Login.vb [Design]",
+              "RelativeToolTip": "Calculator\\Login.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-14T07:55:07.702Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MenuForm.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\Calculator\\Calculator\\MenuForm.vb",
+              "RelativeDocumentMoniker": "Calculator\\MenuForm.vb",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\Calculator\\Calculator\\MenuForm.vb [Design]",
+              "RelativeToolTip": "Calculator\\MenuForm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-15T08:28:46.006Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Calcu.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\Calculator\\Calculator\\Calcu.vb",
+              "RelativeDocumentMoniker": "Calculator\\Calcu.vb",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\Calculator\\Calculator\\Calcu.vb [Design]",
+              "RelativeToolTip": "Calculator\\Calcu.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-14T12:20:54.809Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MenuForm.vb",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\Calculator\\Calculator\\MenuForm.vb",
+              "RelativeDocumentMoniker": "Calculator\\MenuForm.vb",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\Calculator\\Calculator\\MenuForm.vb",
+              "RelativeToolTip": "Calculator\\MenuForm.vb",
+              "ViewState": "AgIAADgAAAAAAAAAAAAgwEgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-15T08:32:37.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.vb",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\Calculator\\Calculator\\Login.vb",
+              "RelativeDocumentMoniker": "Calculator\\Login.vb",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\Calculator\\Calculator\\Login.vb",
+              "RelativeToolTip": "Calculator\\Login.vb",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAkwAkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-14T08:12:52.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Calcu.vb",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\Calculator\\Calculator\\Calcu.vb",
+              "RelativeDocumentMoniker": "Calculator\\Calcu.vb",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\Calculator\\Calculator\\Calcu.vb",
+              "RelativeToolTip": "Calculator\\Calcu.vb",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAsAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-14T12:26:10.771Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
